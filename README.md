@@ -1,4 +1,4 @@
-<img src="https://gist.github.com/Aleksi44/48f93dd335a4d8f7fb83702185956fc1#file-svg-animation-stroke-svg" width="100%" height="100">
+
 <h2 align="left">My stack:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
