@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="100%">
 <h2 align="left">My stack:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
