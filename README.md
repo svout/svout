@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB++I%E2%80%99m+Ivan+Kovalchuk;Over+1+years+of+programming+experience+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
+
 <h2 align="left">My stack:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
