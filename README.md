@@ -1,3 +1,5 @@
+<h2 align="left">My stack:</h2>
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
      <td align="center"  width="96">
@@ -63,3 +65,4 @@
       <br>Rest API
     </td>
 </table>
+</div>
