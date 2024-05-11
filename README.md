@@ -24,12 +24,6 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
@@ -39,6 +33,10 @@
       <br>Webpack
     </td>
   </tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="css" />
+      <br>Babel
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -52,20 +50,16 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
     </td>
       </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest API
     </td>
 </table>
