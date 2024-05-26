@@ -15,8 +15,8 @@
       <br>CSS
     </td>
 <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
-      <br>Sass
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Sass" />
+      <br>Tailwind
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
