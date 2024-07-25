@@ -40,8 +40,8 @@
     </td>
   </tr>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="css" />
-      <br>Babel
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+      <br>MongoDB
     </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="48" height="48" />
