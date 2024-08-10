@@ -69,7 +69,7 @@
       <br>Express
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=next" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=next" alt="icon" width="48" height="48" />
       <br>Next
     </td>
 </table>
